@@ -9,7 +9,6 @@
 ![image](https://github.com/EachenL/EasyPathology-demo/assets/19162554/7920ac2e-2812-45d7-980a-5a924654db6b)
 ![image](https://github.com/EachenL/EasyPathology-demo/assets/19162554/e427873f-78b0-4222-b48f-279479b66776)
 ![image](https://github.com/EachenL/EasyPathology-demo/assets/19162554/c41c6857-e13f-4c08-98e4-d2b0573d06c8)
-![image](https://github.com/EachenL/EasyPathology-demo/assets/19162554/0d2f21d8-7ed1-478f-be3d-fdd717673f45)
 ![image](https://github.com/EachenL/EasyPathology-demo/assets/19162554/fa3d5766-7571-4453-808b-d19fa4bd451f)
 ![image](https://github.com/EachenL/EasyPathology-demo/assets/19162554/1c0a534d-1a91-4d24-a53d-1de28d0b8053)
 ![image](https://github.com/EachenL/EasyPathology-demo/assets/19162554/07f2c256-11be-4321-ba15-64f8195d0ec4)
